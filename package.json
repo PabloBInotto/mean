@@ -1,0 +1,29 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "MEAN app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PabloBInotto/mean.git"
+  },
+  "keywords": [
+    "Mongo",
+    "Express",
+    "Angular",
+    "Nodejs"
+  ],
+  "author": "Pablo Binotto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PabloBInotto/mean/issues"
+  },
+  "homepage": "https://github.com/PabloBInotto/mean#readme",
+  "dependencies": {
+    "angular": "^1.8.2",
+    "express": "^4.17.1"
+  }
+}
